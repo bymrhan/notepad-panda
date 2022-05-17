@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "notpanda", "notpanda\notpanda.csproj", "{D23174D3-1480-4C5E-ADF5-C27D9BC28446}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D23174D3-1480-4C5E-ADF5-C27D9BC28446}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D23174D3-1480-4C5E-ADF5-C27D9BC28446}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D23174D3-1480-4C5E-ADF5-C27D9BC28446}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D23174D3-1480-4C5E-ADF5-C27D9BC28446}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6F8608C-1028-4D36-BE24-E19853937769}
+	EndGlobalSection
+EndGlobal
